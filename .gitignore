@@ -1,0 +1,18 @@
+# Python environment
+esyarat-env/
+
+# Dataset
+dataset/
+
+# Backup & cache
+pose_backup/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Editor/OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
